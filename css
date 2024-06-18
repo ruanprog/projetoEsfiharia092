@@ -1,0 +1,86 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: black;
+  color: white;
+
+  text-align: center;
+  align-content: center;
+}
+
+h1 span {
+  color: #ff4d00;
+}
+
+h1 {
+  color: #e1ff00;
+  font-size: 4rem;
+  line-height: 1.2;
+}
+
+p {
+  font-size: 1.25rem;
+  margin-bottom: 4.5rem;
+}
+
+a {
+  background-color:  #ff4d00;
+  color: white;
+  text-decoration: none;
+  padding: 1rem 2rem;
+
+  font-size: 1.5rem;
+  border-radius: .5rem;
+
+  transition: backgroud-color .300ms;
+}
+
+a:hover {
+  background-color:  #ff7b00;
+  color: white;
+}
+
+#bg-image {
+  background-image: url("https://media.istockphoto.com/id/1299451842/pt/foto/chicken-sfiha-typical-arabic-dish-that-has-been-adapted-for-brazilian-cuisine.jpg?s=1024x1024&w=is&k=20&c=dJiGWi81XSux9NEOVNGQKvsbeymmJ0dAg-Sx2Qecg-c=");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  opacity: 0.3;
+
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+}
+
+@media (width < 40rem) {
+  html {
+    font-size: 70%;
+  }
+}
+
+h1, p, a {
+  animation-delay: appear 1s backwards;
+}
+
+h1 {
+    animation-delay: 0.2s;
+}
+
+p {
+    animation-delay: 0.8s;
+}
+
+a {
+    animation-delay: 1.6s;
+}
+
+@keyframes appear {
+  0% {
+    opacity: 0;
+  }
+}
