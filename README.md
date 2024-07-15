@@ -1,6 +1,6 @@
-# Esfiharia092
+# Garage 092
 
-Bem-vindo ao repositório do projeto Esfiharia 092!
+Bem-vindo ao repositório do projeto Garage 092!
 Este é um site simples e enxuto desenvolvido com HTML e CSS, destinado a promover nossa esfiharia e facilitar o contato com nossos clientes através de um link direto para o WhatsApp.
 
 Índice:
