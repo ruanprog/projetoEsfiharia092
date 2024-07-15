@@ -13,7 +13,7 @@ Como Visualizar o Projeto
 Contato
 
 ## Visão Geral:
-O projeto Esfiharia 092 é uma página web que apresenta nossa esfiharia de maneira clara e direta. Com um design simples e eficiente, nosso objetivo é proporcionar aos clientes todas as informações necessárias e um meio de contato rápido.
+O projeto Garage 092 é uma página web que apresenta nossa esfiharia de maneira clara e direta. Com um design simples e eficiente, nosso objetivo é proporcionar aos clientes todas as informações necessárias e um meio de contato rápido.
 
 ## Funcionalidades:
 Informações sobre a Esfiharia: Apresentação da nossa história, valores e produtos oferecidos.
